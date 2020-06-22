@@ -1,6 +1,23 @@
 # GIRIL 
 ICML'20: Intrinsic Reward Driven Imitation Learning via Generative Model (Pytorch implementation).
 
+=======
+This is the code for the paper:
+Intrinsic Reward Driven Imitation Learning via Generative Model  
+Xingrui Yu, Yueming Lyu and Ivor W. Tsang  
+Presented at [ICML 2020](https://icml.cc/Conferences/2020).  
+
+If you find this code useful in your research then please cite  
+```bash
+@inproceedings{yu2020intrinsic,
+  title={Intrinsic Reward Driven Imitation Learning via Generative Model},
+  author={Yu, Xingrui and Lyu, Yueming and Tsang, Ivor
+  booktitle={ICML},
+  pages={????--????},
+  year={2020}
+}
+```  
+
 Our implementation is based on the repo: https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail.
 
 Please refer to the repo for installation, or
