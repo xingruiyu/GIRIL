@@ -2,6 +2,7 @@
 ICML'20: Intrinsic Reward Driven Imitation Learning via Generative Model (Pytorch implementation).
 
 =======
+
 This is the code for the paper:
 Intrinsic Reward Driven Imitation Learning via Generative Model  
 Xingrui Yu, Yueming Lyu and Ivor W. Tsang  
