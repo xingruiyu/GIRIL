@@ -45,7 +45,7 @@ We achieve final results by following these steps:
    sh scripts/train_reward_module.sh
    ```
 
-4. policy optimizaion with the leaned reward: 
+4. policy optimizaion with the learned reward: 
    ```bash
    sh scripts/policy_optimization.sh
    ```
