@@ -4,7 +4,7 @@ ICML'20: Intrinsic Reward Driven Imitation Learning via Generative Model (Pytorc
 =======
 
 This is the code for the paper:
-Intrinsic Reward Driven Imitation Learning via Generative Model  
+[Intrinsic Reward Driven Imitation Learning via Generative Model](https://arxiv.org/abs/2006.15061)  
 Xingrui Yu, Yueming Lyu and Ivor W. Tsang  
 Presented at [ICML 2020](https://icml.cc/Conferences/2020).  
 
