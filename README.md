@@ -12,7 +12,7 @@ If you find this code useful in your research then please cite
 ```bash
 @inproceedings{yu2020intrinsic,
   title={Intrinsic Reward Driven Imitation Learning via Generative Model},
-  author={Yu, Xingrui and Lyu, Yueming and Tsang, Ivor
+  author={Yu, Xingrui and Lyu, Yueming and Tsang, Ivor},
   booktitle={International Conference on Machine Learning},
   pages={6672--6682},
   year={2020}
