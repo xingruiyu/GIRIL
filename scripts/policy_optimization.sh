@@ -5,7 +5,7 @@ subsample=4
 
 entropy_coef=0.01
 ppo_epoch=4
-load_iter=100 #final
+load_iter=final
 debug="False"
 model_base='cnn'
 
